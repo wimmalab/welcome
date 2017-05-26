@@ -2,7 +2,7 @@
 
 ![](https://openclipart.org/image/300px/svg_to_png/278749/Vault.png&disposition=attachment)
 
-Olemme käynnistäneet JAMK's Challenge Factoryn kesän 2017 ajaksi täällä JAMKin Dynamon ICT osastolla!
+Olemme käynnistäneet WIMMA labin kesän 2017 ajaksi JAMKin Dynamon IT-instituutissa!
 
 * Perjantaina 9.6.2017 alkaen klo 10:00 - 11:30
 * Piippukatu 2, 4. krs luokkaan D404-405
