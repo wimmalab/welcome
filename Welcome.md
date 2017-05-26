@@ -45,14 +45,14 @@ Tarkentuu vielä..
 Osoite on Piippukatu 2, 40100 Jyväskylä
 D404-D405, 4. kerros.
 
-Lisää tietoa:  
-Marko Rintamäki
-0504071047
-WIMMA Lab valmentaja
+Lisätietoa:  
+Marko Rintamäki  
+0504071047  
+WIMMA Lab valmentaja  
 
 Lauri Mäkinen  
 0505271362  
-WIMMA Lab valmentaja
+WIMMA Lab valmentaja  
 
 ![Parkkiohjeet](img/piippukatu_ohjeet.png)
 
