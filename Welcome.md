@@ -1,4 +1,4 @@
-## Tervetuloa JAMK's Challege Factoryn avoimet ovet tapahtumaan!
+## Tervetuloa WIMMA labin avoimien ovien tapahtumaan!
 
 ![](https://openclipart.org/image/300px/svg_to_png/278749/Vault.png&disposition=attachment)
 
