@@ -2,8 +2,8 @@
 
 ![](https://openclipart.org/image/300px/svg_to_png/278749/Vault.png&disposition=attachment)
 
-Olemme käynnistäneet JAMKin IT-instituutissa jo perinteisen "Chalenge Factory"-työpajan kesän 2017 ajaksi  
-Tänä vuonna työpaja vaihtaa nimeään ja sen on "WIMMA Lab". Terve tuloa tutustumaan mitä tänä vuonna työstetään!
+Olemme käynnistäneet JAMKin IT-instituutissa jo seitsemättä kertaa "Challenge Factory"-työpajan kesän ajaksi.  
+Tänä vuonna työpaja/kurssi vaihtaa nimeään ja kutsumme sitä nimellä "WIMMA Lab". Terve tuloa tutustumaan mitä tänä vuonna työstetään!
 
 * Perjantaina 9.6.2017 alkaen klo 10:00 - 11:30
 * Piippukatu 2, 4. krs luokkaan D404-405
@@ -13,23 +13,23 @@ Tänä vuonna työpaja vaihtaa nimeään ja sen on "WIMMA Lab". Terve tuloa tutu
 # Agenda
 
 * 9:45 -> Kahvit & nakerrettavaa...
-* 10:00 WIMMA Lab 2017 -toiminnan esittely
-* 10:15 Mitä ovat kesän tavoitteet ja haasteet
+* 10:00 WIMMA Lab 2017 -toiminnan esittely, tavoitteet ja haasteet
 * 10:30 Opiskelijat kertovat eri haasteista, joita he ovat työstäneet ensimmäisen "sprintin" ajan
 * 10:45 Demotaan jo toimivia ratkaisuja
 * Avointa keskustelua ja verkostoitumista
 
-## Miksi tulisin, tai edes vaivautuisin?
+## Miksi kannattaa tulla paikalle?
 
-* Onko sinulla pulaa osaajista? ---> Ilmesty paikalle!
+* Onko sinulla pulaa osaajista? ---> Kannattaa ilmestyä paikalle!
 * Jos alempana olevat eri "käsitteet" herättävät aivolohkoissasi kiinnostusta --> Ilmesty paikalle!
-* Read My lips! tämä on käsky!
-* Rancher, Docker, Micro Services, Cassandra, Hadoop
-* SDN (Software defined networks)
-* IOT, Rasberry PI, Open Stack,
-* Peliohjelmointi
-* AI, konenäkö, koneoppiminen
-* Data-analyysi
+
+
+    * Rancher, Docker, Micro Services, Cassandra, Hadoop
+    * SDN (Software defined networks)
+    * IOT, Rasberry PI, Open Stack,
+    * Peliohjelmointi
+    * AI, konenäkö, koneoppiminen
+    * Data-analyysi
 
 ## Linkkejä:
 
