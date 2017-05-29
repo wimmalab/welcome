@@ -27,7 +27,7 @@ _360 kuva työskentelytiloista_
 
 * Onko sinulla pulaa osaajista? ---> Kannattaa ilmestyä paikalle!
 * Jos alempana olevat eri "käsitteet" herättävät aivolohkoissasi kiinnostusta --> Ilmesty paikalle!
-    * Rancher, Docker, Micro Services, Cassandra, Hadoop
+    * Rancher, Docker, microservices, Cassandra, Hadoop
     * SDN (Software defined networks)
     * IOT, Rasberry PI, Open Stack,
     * Peliohjelmointi
@@ -35,9 +35,9 @@ _360 kuva työskentelytiloista_
     * Data-analyysi
     * Web-tekniikat ja teknisten toteutusten tuotteistaminen/brändäys
 
-## SPONSORILLE ON TARVETTA!
+## Tässä on mahdolisuutesi rekrytä tulevaisuuden osaajia!
 
-* [Tule tukemaan alkutaipalettamme!](https://github.com/wimmalab/welcome/blob/master/sponsoreille.md)
+* [Kurkkaa](https://github.com/wimmalab/welcome/blob/master/sponsoreille.md), miten voimme auttaa sinua verkostoitumaan opiskelijoihin 
 
 ## Linkkejä:
 
