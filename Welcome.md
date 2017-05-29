@@ -37,7 +37,7 @@ _360 kuva työskentelytiloista_
 
 ## Tässä on mahdolisuutesi rekrytä tulevaisuuden osaajia!
 
-* [Kurkkaa](https://github.com/wimmalab/welcome/blob/master/sponsoreille.md) miten voimme auttaa sinua verkostoitumaan opiskelijoihin 
+* [Kurkkaa](https://github.com/wimmalab/welcome/blob/master/sponsoreille.md) miten voimme auttaa sinua verkostoitumaan paremmin opiskelijoihin 
 
 ## Linkkejä:
 
