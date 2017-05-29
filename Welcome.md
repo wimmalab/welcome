@@ -1,8 +1,9 @@
-## Tervetuloa WIMMA labin avoimien ovien tapahtumaan!
+## Tervetuloa WIMMA labin (aka Challenge Factory) avoimien ovien tapahtumaan!
 
 ![](https://openclipart.org/image/300px/svg_to_png/278749/Vault.png&disposition=attachment)
 
-Olemme käynnistäneet WIMMA labin kesän 2017 ajaksi JAMKin Dynamon IT-instituutissa!
+Olemme käynnistäneet JAMKin IT-instituutissa jo perinteisen "Chalenge Factory"-työpajan kesän 2017 ajaksi  
+Tänä vuonna työpaja vaihtaa nimeään ja sen on "WIMMA Lab". Terve tuloa tutustumaan mitä tänä vuonna työstetään!
 
 * Perjantaina 9.6.2017 alkaen klo 10:00 - 11:30
 * Piippukatu 2, 4. krs luokkaan D404-405
@@ -11,34 +12,28 @@ Olemme käynnistäneet WIMMA labin kesän 2017 ajaksi JAMKin Dynamon IT-instituu
 
 # Agenda
 
-* 9:45 -> Kahvit & nakerrettavaa...  
-Tarkentuu vielä..
-<!--
 * 9:45 -> Kahvit & nakerrettavaa...
-* 10:00 JAMK's Challenge Factory 2017 -toiminnan esittely
+* 10:00 WIMMA Lab 2017 -toiminnan esittely
 * 10:15 Mitä ovat kesän tavoitteet ja haasteet
 * 10:30 Opiskelijat kertovat eri haasteista, joita he ovat työstäneet ensimmäisen "sprintin" ajan
 * 10:45 Demotaan jo toimivia ratkaisuja
 * Avointa keskustelua ja verkostoitumista
--->
 
 ## Miksi tulisin, tai edes vaivautuisin?
 
 * Onko sinulla pulaa osaajista? ---> Ilmesty paikalle!
 * Jos alempana olevat eri "käsitteet" herättävät aivolohkoissasi kiinnostusta --> Ilmesty paikalle!
 * Read My lips! tämä on käsky!
-
-
-* Peliohjelmointi
 * Rancher, Docker, Micro Services, Cassandra, Hadoop
 * SDN (Software defined networks)
 * IOT, Rasberry PI, Open Stack,
+* Peliohjelmointi
 * AI, konenäkö, koneoppiminen
 * Data-analyysi
 
 ## Linkkejä:
 
-* Mikä on [Challenge Factory?](info-challenge-factory)
+* Mikä on [Challenge Factory/WIMMA Lab](http://WIMMALAB.github.io)
 
 ## Näillä ohjeilla perille
 
