@@ -1,4 +1,4 @@
-## Tervetuloa WIMMA labin (aka Challenge Factory) avoimien ovien tapahtumaan!
+## Tervetuloa WIMMA Labin (aka Challenge Factory) avoimien ovien tapahtumaan!
 
 ![](img/IMG_4646.jpg)
 
