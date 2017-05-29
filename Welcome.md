@@ -35,7 +35,9 @@ _360 kuva työskentelytiloista_
     * Data-analyysi
     * Web-tekniikat ja teknisten toteutusten tuotteistaminen/brändäys
 
-![](img/IMG_4737.jpg)
+## SPONSORILLE ON TARVETTA!
+
+* [Tule tukemaan alkutaipalettamme!]()
 
 ## Linkkejä:
 
