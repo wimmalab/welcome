@@ -3,7 +3,7 @@
 ![](https://openclipart.org/image/300px/svg_to_png/278749/Vault.png&disposition=attachment)
 
 Olemme käynnistäneet JAMKin IT-instituutissa jo seitsemättä kertaa "Challenge Factory"-työpajan kesän ajaksi.  
-Tänä vuonna työpaja/kurssi vaihtaa nimeään ja kutsumme sitä nimellä "WIMMA Lab". Terve tuloa tutustumaan mitä tänä vuonna työstetään!
+Tänä vuonna työpaja/kurssi vaihtaa nimeään ja kutsumme sitä nimellä "WIMMA Lab". Tervetuloa tutustumaan mitä tänä vuonna työstetään!
 
 * Perjantaina 9.6.2017 alkaen klo 10:00 - 11:30
 * Piippukatu 2, 4. krs luokkaan D404-405
@@ -30,6 +30,7 @@ Tänä vuonna työpaja/kurssi vaihtaa nimeään ja kutsumme sitä nimellä "WIMM
     * Peliohjelmointi
     * AI, konenäkö, koneoppiminen
     * Data-analyysi
+	* Web-tekniikat ja teknisten toteutusten tuotteistaminen/brändäys
 
 ## Linkkejä:
 
