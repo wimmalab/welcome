@@ -1,18 +1,22 @@
 # Rekrytointi kannattaa aloittaa ajoissa... Luo hyvät kontaktit tuleviin mestareihin!
 
-![](img/factory.png)
+![](img/IMG_4737.jpg)
 
 ### Hakeeko yrityksesi uusia ohjelmisto-, verkko-, mediatekniikan tai kyberturvallisuuden tekijöitä?  
 
-#### Challenge Factory tarjoaa yrityksellesi paraatipaikan verkostoitua ja rekrytoida huippuopiskelijoita rennon epävirallisissa tunnelmissa.
+#### WIMMA Lab tarjoaa yrityksellesi paraatipaikan verkostoitua ja rekrytoida huippuopiskelijoita rennon epävirallisissa tunnelmissa.
 
-## Mikä tekee Challenge Factory tiimistä erityisen?
+
+_WIMMA Lab kulki aiemmin nimelllä __Challenge Factory__.  
+Uusi nimi pitää sisällään Challenge Factoryssa [tunnustettujen](http://laurimakinen.com/honorable-mention-challenge-factory/) toimintatapojen lisäksi uusia käytänteitä ja haasteita opiskelijoille!_
+
+## Mikä tekee WIMMA Lab tiimistä erityisen?
 
 Eli toisin sanoen, miksi sinun yrityksesi tulee olla hyvin edustettuna juuri tälle opiskelijajoukolla?
-* Challenge Factorylla on jo kuuden vuoden perinteet ohjelmistotuotannon- ja projektityöskentelymallien sisäänajamisesta
+* WIMMA Labilla on jo kuuden vuoden perinteet ohjelmistotuotannon- ja projektityöskentelymallien sisäänajamisesta
   * tästä joukosta koulitaan kesän aikana yrityksellesi valmiita projektityöntekijöitä (viime kesän projektille Inssiforum 2017 myönsi [kunniamaininnan](http://laurimakinen.com/honorable-mention-challenge-factory/))
-  * Challenge Factory konseptia on kehitetty mm. [TIVIT Cloud Software Finland](https://www.youtube.com/watch?v=NLr-loPmI1c), [DIMECC Cyber Trust](http://cybertrust.fi/) ja [DIMECC N4S ](http://www.n4s.fi/en/) ohjelmissa
-* Challenge Factoryn 27 opiskelijan tiimi on karsittu 45 hakijan joukosta
+  * WIMMA Lab konseptia on kehitetty mm. [TIVIT Cloud Software Finland](https://www.youtube.com/watch?v=NLr-loPmI1c), [DIMECC Cyber Trust](http://cybertrust.fi/) ja [DIMECC N4S ](http://www.n4s.fi/en/) ohjelmissa
+* WIMMA Labin 27 opiskelijan tiimi on karsittu 45 hakijan joukosta
 * Tämän kesän tiimistä nousee tulevaisuuden IoT, SDN ja AI asiantuntijoita
 
 **Yritykselläsi on tilaisuus olla esillä seuraavissa tapahtumissa**
@@ -27,7 +31,7 @@ Eli toisin sanoen, miksi sinun yrityksesi tulee olla hyvin edustettuna juuri tä
 
 
 ![](img/digia.jpg)  
-Viime vuoden Kaunaillan isäntänä toimi Digia. Kuvassa olevista opiskelijoista suurin osa on jo kiinni työ-elämässä
+_Viime vuoden Kaunaillan isäntänä toimi Digia. Kuvassa olevista opiskelijoista suurin osa on jo kiinni työ-elämässä_
 
 # Ota siis yhteyttä ja onnistu opiskelijarekrytoinnissa!
 

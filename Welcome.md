@@ -12,7 +12,7 @@ Tervetuloa tutustumaan mitä tänä vuonna työstetään!
 * Kannattaa ilmoittautua ennakkoon [Doodle-palvelun avulla](https://doodle.com/poll/rc8r9cvyr2dv4rzt)! Saatat saada kahvia ja pullaa
 * [Google Map](https://www.google.fi/maps/place/Jyv%C3%A4skyl%C3%A4n+Ammattikorkeakoulu+Oy/@62.2416303,25.7598717,18.75z/data=!4m5!3m4!1s0x0000000000000000:0x75aa55a81cd7c009!8m2!3d62.2416224!4d25.7597309?hl=en)
 
-<iframe src="https://drive.google.com/file/d/19iQrO9LOIwA3T4hs8HcLdtl0bCqvyjARgw/preview" width="640" height="480"></iframe>  
+![](img/360-tyotila.jpg)
 _360 kuva työskentelytiloista_
 
 # Agenda
@@ -31,7 +31,7 @@ _360 kuva työskentelytiloista_
     * SDN (Software defined networks)
     * IOT, Rasberry PI, Open Stack,
     * Peliohjelmointi
-    * AI, konenäkö, koneoppimineng
+    * AI, konenäkö, koneoppiminen
     * Data-analyysi
     * Web-tekniikat ja teknisten toteutusten tuotteistaminen/brändäys
 
