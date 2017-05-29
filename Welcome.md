@@ -37,7 +37,7 @@ _360 kuva työskentelytiloista_
 
 ## SPONSORILLE ON TARVETTA!
 
-* [Tule tukemaan alkutaipalettamme!]()
+* [Tule tukemaan alkutaipalettamme!](https://github.com/wimmalab/welcome/blob/master/sponsoreille.md)
 
 ## Linkkejä:
 
