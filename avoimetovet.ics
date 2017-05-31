@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Helsinki
+BEGIN:VEVENT
+DTSTART:20170609T190000Z
+DTEND:20170609T203000Z
+DTSTAMP:20170531T175445Z
+CREATED:20170531T174910Z
+DESCRIPTION:Aikataulu:\n9:45 -> Kahvit & nakerrettavaa...\n10:00 WIMMA Lab 
+ 2017 -toiminnan esittely\, tavoitteet ja haasteet\n10:30 Opiskelijat kertov
+ at eri haasteista\, joita he ovat työstäneet ensimmäisen "sprintin" ajan\n1
+ 0:45 Demotaan jo toimivia ratkaisuja\n\nAvoimien ovien info: https://github
+ .com/wimmalab/welcome/blob/master/Welcome.md\n\nMikä ihmeen WIMMA Lab? http
+ s://wimmalab.github.io\n\nLisätietoa:\nMarko Rintamäki\nWIMMA Lab valmentaj
+ a\n0504071047\nmarko.rintamaki@jamk.fi\n\nLauri Mäkinen\nWIMMA Lab valmenta
+ ja\n0505271362\nlauri.makinen@jamk.fi
+LAST-MODIFIED:20170531T175107Z
+LOCATION:Piippukatu 2\, 40100 Jyväskylä\, Finland
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:WIMMA Lab avoimet ovet
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
