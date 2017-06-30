@@ -21,7 +21,7 @@ Eli toisin sanoen, miksi sinun yrityksesi tulee olla hyvin edustettuna juuri tä
 
 **Yritykselläsi on tilaisuus olla esillä seuraavissa tapahtumissa**
 
-* **TÄMÄ ON MYYTY! 9.6.2017 Kettuketer tiimiytymispäivä (Yrityksesi saa mahdollisuuden esittäytyä ja osallistua illan tapahtumiin sekä tarjota ryhmälle esim. ruokailun ja pari olutta)**
+* **TÄMÄ ON MYYTY!** 9.6.2017 Kettuketer tiimiytymispäivä (Yrityksesi saa mahdollisuuden esittäytyä ja osallistua illan tapahtumiin sekä tarjota ryhmälle esim. ruokailun ja pari olutta)
 
 * 28.7.2017 Kaunailta (Yrityksesi pääsee isännöimään projektinlopetus saunailtaa koko porukalle ja tarjoaa esim. Pizza + olut +saunan) Budjetti ~2000€
 
